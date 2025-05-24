@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Создаем экземпляр axios с базовым URL
 const instance = axios.create({
-  baseURL: '/api',
+  baseURL: 'https://noteapp-backend-xyqq.onrender.com/api',
   headers: {
     'Content-Type': 'application/json',
   },
