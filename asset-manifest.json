@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://v1l0nt.github.io/note-app-frontend/static/css/main.32e8975d.css",
-    "main.js": "https://v1l0nt.github.io/note-app-frontend/static/js/main.c63ad7b2.js",
+    "main.css": "https://v1l0nt.github.io/note-app-frontend/static/css/main.631b329b.css",
+    "main.js": "https://v1l0nt.github.io/note-app-frontend/static/js/main.26e8068b.js",
     "index.html": "https://v1l0nt.github.io/note-app-frontend/index.html",
-    "main.32e8975d.css.map": "https://v1l0nt.github.io/note-app-frontend/static/css/main.32e8975d.css.map",
-    "main.c63ad7b2.js.map": "https://v1l0nt.github.io/note-app-frontend/static/js/main.c63ad7b2.js.map"
+    "main.631b329b.css.map": "https://v1l0nt.github.io/note-app-frontend/static/css/main.631b329b.css.map",
+    "main.26e8068b.js.map": "https://v1l0nt.github.io/note-app-frontend/static/js/main.26e8068b.js.map"
   },
   "entrypoints": [
-    "static/css/main.32e8975d.css",
-    "static/js/main.c63ad7b2.js"
+    "static/css/main.631b329b.css",
+    "static/js/main.26e8068b.js"
   ]
 }
